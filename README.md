@@ -4,7 +4,7 @@
 
 # 🔐 Advanced Password Generator
 
-### ⚡ Secure • Stylish • Powerful <br> <br>
+### ⚡ Secure • Stylish • Powerful
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white">
