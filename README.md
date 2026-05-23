@@ -1,92 +1,101 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0a0a0a,30:0d0221,60:130428,100:1a0533&text=Password%20Generator&fontSize=52&fontAlignY=40&animation=fadeIn&fontColor=ffffff&stroke=8A2BE2&strokeWidth=2&desc=🔐%20Secure%20·%20Stylish%20·%20Powerful&descAlignY=60&descSize=20&descAlign=50"/>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=🔑+Generate+Ultra-Strong+Passwords;🛡️+Built+with+Python+%2B+Tkinter;🎨+Modern+Dark+Theme+Interface;⚡+Fast+·+Secure+·+Lightweight;🚀+Open+Source+%26+Free+Forever" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&text=🔐%20Password%20Generator&fontSize=48&fontAlignY=42&animation=fadeIn&fontColor=ffffff&desc=Secure%20·%20Stylish%20·%20Powerful%20Python%20GUI%20App&descSize=18&descAlignY=62&descAlign=50&stroke=7c3aed&strokeWidth=1" />
 
 <br/>
 
-<!-- Animated Badges Row 1 -->
-<a href="#"><img src="https://img.shields.io/badge/Python-3.x-FFD43B?style=for-the-badge&logo=python&logoColor=black&labelColor=0d0d0d"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Tkinter-GUI%20Framework-4A90D9?style=for-the-badge&logo=windowsterminal&logoColor=white&labelColor=0d0d0d"/></a>
-<a href="#"><img src="https://img.shields.io/badge/UI-Dark%20Theme-8A2BE2?style=for-the-badge&logo=gnome&logoColor=white&labelColor=0d0d0d"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Status-Completed-00C853?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0d0d0d"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=🔑+Generate+Strong+Passwords+Instantly;🛡️+Python+%2B+Tkinter+GUI+Application;🎨+Modern+Dark+Theme+Interface;⚡+Fast+%7C+Secure+%7C+Zero+Dependencies;🚀+Open+Source+%26+100%25+Free" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Animated Badges Row 2 -->
-<a href="#"><img src="https://img.shields.io/badge/License-MIT-FF6FD8?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d0d0d"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-00C9FF?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d0d0d"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Version-1.0.0-FF512F?style=for-the-badge&logo=semanticversioning&logoColor=white&labelColor=0d0d0d"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Tkinter-GUI-FF6B6B?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-7C3AED?style=for-the-badge&logo=linux&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge&logo=opensourceinitiative&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Status-Completed-F59E0B?style=for-the-badge" /></a>
 
 <br/><br/>
 
-<!-- Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Password-Generator&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=00C9FF&text_color=ffffff&icon_color=8A2BE2" />
-
-<br/><br/>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 </div>
 
 <br/>
 
-## 🌌 Overview
+## 📌 Table of Contents
+
+<div align="center">
+
+| # | Section |
+|---|---------|
+| 01 | [🌟 About the Project](#-about-the-project) |
+| 02 | [✨ Features](#-features) |
+| 03 | [🛠️ Tech Stack](#️-tech-stack) |
+| 04 | [📂 Project Structure](#-project-structure) |
+| 05 | [🚀 Getting Started](#-getting-started) |
+| 06 | [🎓 What You'll Learn](#-what-youll-learn) |
+| 07 | [📊 Password Strength Guide](#-password-strength-guide) |
+| 08 | [🗺️ Roadmap](#️-roadmap) |
+| 09 | [🤝 Contributing](#-contributing) |
+| 10 | [📜 License](#-license) |
+| 11 | [📬 Contact](#-contact) |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br/>
+
+## 🌟 About the Project
+
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" />
+
+**Password Generator** is a sleek, modern desktop application built with **Python** and **Tkinter**. It allows users to instantly generate strong, random, and secure passwords — with full control over length and character types — wrapped in a beautiful dark-themed GUI.
+
+Whether you are a **developer**, **student**, or someone who cares about online security, this tool is built for you.
+
+<br/>
+
+### 🎯 Why This Project?
+
+- 🔒 **Security First** — No weak passwords ever again
+- 🖥️ **Desktop Native** — Fast and lightweight, no browser needed
+- 🎨 **Modern UI** — Dark theme that looks premium
+- 📚 **Learn Python GUI** — Perfect beginner-to-intermediate project
+- ⚡ **Zero Setup** — Just Python. That's it.
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br/>
+
+## ✨ Features
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    ██████╗  █████╗ ███████╗███████╗██╗    ██╗ ██████╗ ██████╗ ║
-║    ██╔══██╗██╔══██╗██╔════╝██╔════╝██║    ██║██╔═══██╗██╔══██╗║
-║    ██████╔╝███████║███████╗███████╗██║ █╗ ██║██║   ██║██████╔╝║
-║    ██╔═══╝ ██╔══██║╚════██║╚════██║██║███╗██║██║   ██║██╔══██╗║
-║    ██║     ██║  ██║███████║███████║╚███╔███╔╝╚██████╔╝██║  ██║║
-║    ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝ ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝║
-║                                                              ║
-║           G E N E R A T O R  v1.0.0  🔐                    ║
-╚══════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────────────┐
+│                      🔐  CORE FEATURES                              │
+├───────────────────────────┬─────────────────────────────────────────┤
+│  🔐  Secure Passwords     │  Strong random generation every time    │
+│  📏  Custom Length        │  Set any length from 4 to 100+ chars    │
+│  🔡  Charset Control      │  Upper / Lower / Numbers / Symbols      │
+│  📋  Copy to Clipboard    │  One-click instant copy                 │
+│  ⚠️   Input Validation    │  Handles all bad input gracefully       │
+│  🌑  Dark Theme UI        │  Premium modern dark design             │
+│  ⚡  No Dependencies      │  Pure Python stdlib — runs anywhere     │
+│  🔄  Instant Regenerate   │  New password with one click            │
+└───────────────────────────┴─────────────────────────────────────────┘
 ```
 
 </div>
 
-> **A sleek, modern Password Generator** built entirely with **Python + Tkinter**. Generate cryptographically strong, random passwords instantly — with full control over length, character types, and complexity. Designed for developers, students, and security-conscious users.
-
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br/>
-
-## ✨ Features at a Glance
-
-<div align="center">
-
-| ⚡ Feature | 🔍 Description | 🎯 Benefit |
-|:---:|:---|:---|
-| 🔐 **Secure Generation** | Uses Python `random` + `string` modules | Cryptographically random output |
-| 📏 **Custom Length** | Set password length from 1–100+ chars | Full flexibility |
-| 🔡 **Charset Control** | Toggle uppercase, lowercase, numbers, symbols | Meets any password policy |
-| 📋 **One-Click Copy** | Instantly copies to clipboard | Zero manual effort |
-| ⚠️ **Input Validation** | Rejects non-numeric and invalid inputs | Crash-proof UX |
-| 🌑 **Dark Theme UI** | Sleek modern dark design | Easy on the eyes |
-| ⚡ **Zero Dependencies** | Only Python stdlib needed | Runs anywhere |
-| 🔄 **Instant Regenerate** | New password in one click | Ultra fast workflow |
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
@@ -96,26 +105,26 @@
 
 <table>
 <tr>
-<td align="center" width="160">
-  <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python"/>
-  <br/><b>Python 3.x</b>
-  <br/><sub>Core Language</sub>
-</td>
-<td align="center" width="160">
-  <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VSCode"/>
-  <br/><b>VS Code</b>
-  <br/><sub>IDE / Editor</sub>
-</td>
-<td align="center" width="160">
-  <img src="https://img.shields.io/badge/Tkinter-GUI-4A90D9?style=flat-square&logo=python&logoColor=white&labelColor=0d0d0d" height="30"/>
-  <br/><br/><b>Tkinter</b>
-  <br/><sub>GUI Framework</sub>
-</td>
-<td align="center" width="160">
-  <img src="https://img.shields.io/badge/random-Module-8A2BE2?style=flat-square&logo=python&logoColor=white&labelColor=0d0d0d" height="30"/>
-  <br/><br/><b>random + string</b>
-  <br/><sub>Core Logic</sub>
-</td>
+  <td align="center" width="140">
+    <img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br/>
+    <strong>Python 3</strong><br/>
+    <sub>Core Language</sub>
+  </td>
+  <td align="center" width="140">
+    <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br/>
+    <strong>VS Code</strong><br/>
+    <sub>Code Editor</sub>
+  </td>
+  <td align="center" width="140">
+    <img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br/>
+    <strong>Git</strong><br/>
+    <sub>Version Control</sub>
+  </td>
+  <td align="center" width="140">
+    <img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br/>
+    <strong>GitHub</strong><br/>
+    <sub>Hosting</sub>
+  </td>
 </tr>
 </table>
 
@@ -124,85 +133,116 @@
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+| Module | Purpose |
+|--------|---------|
+| `tkinter` | GUI windows, widgets, layout engine |
+| `random` | Cryptographic password generation |
+| `string` | Built-in character sets (ascii, digits, punctuation) |
+| `pyperclip` | Cross-platform clipboard copy support |
+
 </div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
 ## 📂 Project Structure
 
 ```bash
-📦 Password-Generator
- ┃
- ┣ 📄 main.py              ← 🧠 Core app — GUI + password logic
- ┣ 📄 README.md            ← 📖 Project documentation (you're here!)
- ┗ 📄 requirements.txt     ← 📋 Dependencies (Python stdlib only)
+📦 Password-Generator/
+│
+├── 📄 main.py              ← Main application (GUI + Logic)
+├── 📄 README.md            ← Project documentation
+└── 📄 requirements.txt     ← Dependencies (stdlib only)
+```
+
+### 🔍 Inside `main.py`
+
+```python
+# ── Imports ─────────────────────────────────────
+import tkinter as tk
+import random, string
+
+# ── UI Setup ────────────────────────────────────
+#   Window config, dark theme colors, fonts
+
+# ── Password Generator ──────────────────────────
+#   Builds charset from user toggles, generates password
+
+# ── Copy to Clipboard ───────────────────────────
+#   Copies generated password instantly
+
+# ── Input Validation ────────────────────────────
+#   Numeric-only input with error handling
+
+# ── Main Loop ───────────────────────────────────
+root.mainloop()
 ```
 
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### ✅ Prerequisites
 
 ```bash
-# Make sure Python 3.x is installed
-python --version   # Should print Python 3.x.x
+# Verify Python is installed
+python --version
+# Expected output: Python 3.x.x
 ```
 
-### Installation & Run
+### 📦 Installation & Run
 
 ```bash
-# 1️⃣  Clone the repository
+# 1. Clone the repository
 git clone https://github.com/yourusername/Password-Generator.git
 
-# 2️⃣  Navigate into the folder
+# 2. Enter the project folder
 cd Password-Generator
 
-# 3️⃣  Run the app (no pip install needed!)
+# 3. (Optional) Install clipboard support
+pip install pyperclip
+
+# 4. Launch the app
 python main.py
 ```
 
-> ✅ No external libraries required — just pure Python!
+> 💡 **Linux users:** Run `sudo apt install python3-tk` if Tkinter is missing.
 
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
 ## 🎓 What You'll Learn
 
 ```python
-# Skills you'll gain building this project:
-
-skills = {
-    "GUI Development"   : "Build windows, buttons, labels with Tkinter",
-    "Random Module"     : "Generate cryptographically random characters",
-    "String Module"     : "Use built-in character sets (ascii, digits, etc.)",
-    "Input Validation"  : "Handle bad user input gracefully",
-    "Clipboard Access"  : "Copy text programmatically with pyperclip / tkinter",
-    "Event Handling"    : "Bind button clicks to functions",
-    "Dark UI Design"    : "Style Tkinter widgets for a modern look",
+skills_unlocked = {
+    "GUI Development"   : "Build desktop apps with Tkinter",
+    "Random Module"     : "Generate truly random characters",
+    "String Module"     : "Use built-in character sets",
+    "Input Validation"  : "Handle bad input gracefully",
+    "Clipboard Access"  : "Copy text cross-platform",
+    "UI/UX Design"      : "Design clean dark interfaces",
+    "Event Handling"    : "Bind actions to functions",
+    "Project Structure" : "Organize Python projects",
 }
 
-for skill, description in skills.items():
-    print(f"✅ {skill}: {description}")
+for skill, desc in skills_unlocked.items():
+    print(f"  ✅ {skill:22} → {desc}")
 ```
 
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
@@ -210,67 +250,79 @@ for skill, description in skills.items():
 
 <div align="center">
 
-| 🔢 Length | 🎭 Charset | 💪 Strength | ⏱️ Time to Crack |
-|:---:|:---:|:---:|:---:|
-| 6 chars | lowercase only | 🔴 **Very Weak** | < 1 second |
-| 8 chars | lower + upper | 🟠 **Weak** | Minutes |
-| 12 chars | lower + upper + nums | 🟡 **Fair** | Days |
-| 16 chars | All charsets | 🟢 **Strong** | Centuries |
-| 20+ chars | All charsets | 🔵 **Ultra** | Heat death of universe |
+| 📏 Length | 🎭 Character Types | 🔒 Strength | ⏱️ Time to Crack |
+|:---------:|:-----------------:|:-----------:|:----------------:|
+| 6 | Lowercase only | 🔴 Very Weak | < 1 second |
+| 8 | Lower + Upper | 🟠 Weak | ~2 minutes |
+| 10 | + Numbers | 🟡 Moderate | ~3 hours |
+| 12 | All types | 🟢 Strong | ~3 centuries |
+| 16 | All types | 🔵 Very Strong | Millions of years |
+| 20+ | All types | 🟣 Ultra | Heat death of universe |
+
+> 🏆 **Recommendation:** Always use **16+ characters** with **all character types** enabled.
 
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
 ## 🗺️ Roadmap
 
-- [x] 🔐 Core password generation
-- [x] 🎨 Dark theme GUI
-- [x] 📋 Copy to clipboard
-- [x] ⚠️ Input validation
-- [ ] 💾 Save passwords to encrypted file
-- [ ] 📊 Password strength meter (visual bar)
-- [ ] 🌐 Web version (Flask / Streamlit)
-- [ ] 🔑 Password history log
-- [ ] 🌍 Multi-language support
+```
+✅  v1.0  →  Core password generation
+✅  v1.0  →  Custom length input
+✅  v1.0  →  Dark theme GUI
+✅  v1.0  →  Copy to clipboard
+✅  v1.0  →  Input validation
+
+🔜  v1.1  →  Visual strength meter bar
+🔜  v1.1  →  Password history (last 5 generated)
+🔜  v1.2  →  Save passwords to encrypted file
+🔜  v1.3  →  Exclude ambiguous characters (0, O, l, 1)
+🔜  v2.0  →  Web version with Flask / Streamlit
+🔜  v2.1  →  Multi-language support
+🔜  v2.2  →  Password manager integration
+```
 
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
 ## 🤝 Contributing
 
-Contributions are what make open source amazing! Here's how:
-
 ```bash
-# 1. Fork the project
-# 2. Create your feature branch
-git checkout -b feature/AmazingFeature
+# 1. Fork this repo (top-right button on GitHub)
 
-# 3. Commit your changes
-git commit -m "Add some AmazingFeature"
+# 2. Clone your fork
+git clone https://github.com/yourusername/Password-Generator.git
 
-# 4. Push to the branch
-git push origin feature/AmazingFeature
+# 3. Create a feature branch
+git checkout -b feature/YourFeatureName
 
-# 5. Open a Pull Request 🎉
+# 4. Commit your changes
+git add .
+git commit -m "feat: Add YourFeatureName"
+
+# 5. Push to your fork
+git push origin feature/YourFeatureName
+
+# 6. Open a Pull Request on GitHub 🎉
 ```
+
+**Guidelines:**
+- ✅ Follow existing code style
+- ✅ Write clear commit messages
+- ✅ Test before submitting PR
+- ❌ Don't break existing features
 
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
@@ -278,64 +330,54 @@ git push origin feature/AmazingFeature
 
 <div align="center">
 
-Distributed under the **MIT License**.
+Distributed under the **MIT License** — free to use, modify, and distribute.
 
-```
-MIT License — Copyright (c) 2025 YourName
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software to use, copy, modify, merge, publish, distribute, sublicense,
-and/or sell copies of the Software.
-```
+[![License: MIT](https://img.shields.io/badge/License-MIT-7C3AED.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+See the [LICENSE](LICENSE) file for full details.
 
 </div>
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br/>
+
+## 📬 Contact
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Feel+free+to+reach+out!;Open+to+collaborations+%26+suggestions;Let's+build+something+amazing!" />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourname-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
+[![Gmail](https://img.shields.io/badge/Gmail-youremail@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+
 </div>
 
 <br/>
 
-## 📬 Contact & Socials
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:your@email.com)
-
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+
+### ⭐ Found this project useful? Please give it a Star — it really helps!
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="65%" />
 
 <br/>
 
-## ⭐ Support the Project
-
-<div align="center">
-
-**If this project helped you, please consider giving it a ⭐ star — it means the world!**
-
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-<img src="https://forthebadge.com/images/badges/made-with-python.svg"/>
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+&nbsp;
+<img src="https://forthebadge.com/images/badges/made-with-python.svg" />
 
 <br/><br/>
 
-<!-- Snake animation (set this up via GitHub Actions) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/><br/>
-
-<!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1a0533,50:0d0221,100:0a0a0a&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:24243e,50:302b63,100:0f0c29&section=footer&animation=fadeIn" />
 
 </div>
