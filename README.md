@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> <br>>br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:0f0c29&text=🔐%20Password%20Generator&fontSize=40&fontAlignY=45&animation=fadeIn&fontColor=ffffff&desc=Secure%20·%20Stylish%20·%20Powerful&descSize=15&descAlignY=65" />
 
