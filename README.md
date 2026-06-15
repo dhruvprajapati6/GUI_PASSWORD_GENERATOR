@@ -1,6 +1,67 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d1a,40:302b63,70:7c3aed,100:0d0d1a&text=🔐%20SecurePass%20Pro&fontSize=42&fontAlignY=42&animation=fadeIn&fontColor=ffffff&desc=Generate%20·%20Strong%20·%20Unbreakable%20Passwords&descSize=16&descAlignY=65&stroke=a855f7&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,20:0f172a,45:312e81,70:7c3aed,100:0ea5e9&text=🔐%20SecurePass%20Pro&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ultra-Secure%20Password%20Generator%20for%20Modern%20Users&descAlignY=62&descSize=20"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=🔒+Generate+Military-Grade+Passwords;⚡+Fast+%7C+Secure+%7C+Modern;🛡️+Protect+Your+Digital+Identity;🚀+Built+with+Python+and+Passion" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Security-High-success?style=for-the-badge&logo=shield"/>
+  <img src="https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge"/>
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvprajapati6&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🚀 About SecurePass Pro
+
+> **SecurePass Pro** is a modern password generator designed to create strong, random, and highly secure passwords to protect your digital accounts from cyber threats.
+
+---
+
+## ✨ Key Features
+
+🔐 Generate ultra-secure passwords  
+⚡ Lightning-fast generation  
+🎲 Fully randomized characters  
+📋 One-click copy support  
+🛡️ Enhanced security protection  
+🖥️ Clean and modern UI  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,vscode,git,github" />
+</p>
+
+---
+
+## 📊 Repository Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvprajapati6&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvprajapati6&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<div align="center">
+
+### 🌟 Secure Your Digital World
+
+*"Strong passwords are the first line of defense in cybersecurity."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=120&section=footer"/>
+
+</div>
 
 <br/>
 
