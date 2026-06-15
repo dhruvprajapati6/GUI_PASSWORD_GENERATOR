@@ -21,7 +21,6 @@
 
 ---
 
-
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=🔐+Strong+Random+Passwords+Instantly;🎨+Premium+Dark+UI+%2B+Animations;⚡+Zero+Dependencies+—+Pure+Python;📊+Live+Strength+Meter+%2B+Entropy;💾+Copy+%26+Save+in+One+Click" />
@@ -164,17 +163,17 @@ python main.py
 │  🔐  SecurePass Pro                             │
 ├─────────────────────────────────────────────────┤
 │                                                 │
-│  [ Generated Password Display ]           [⎘]  │
+│  [ Generated Password Display ]           [⎘]   │
 │                                                 │
 │  Strength: ████████████░░░░  Strong 🟢          │
 │                                                 │
 │  Length ──────●────────── 16                    │
 │                                                 │
-│  ☑ Uppercase  ☑ Lowercase                       │
-│  ☑ Numbers    ☑ Symbols                         │
+│  ☑ Uppercase  ☑ Lowercase                      │
+│  ☑ Numbers    ☑ Symbols                        │
 │  ☐ Exclude ambiguous chars                      │
 │                                                 │
-│  [ ✨ Generate ]  [ 💾 Save ]  [ 🗑 Clear ]      │
+│  [ ✨ Generate ]  [ 💾 Save ]  [ 🗑 Clear ]     │
 │                                                 │
 └─────────────────────────────────────────────────┘
 ```
