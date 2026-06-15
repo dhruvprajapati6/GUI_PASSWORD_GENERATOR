@@ -19,49 +19,8 @@
 
 ---
 
-# 🚀 About SecurePass Pro
-
-> **SecurePass Pro** is a modern password generator designed to create strong, random, and highly secure passwords to protect your digital accounts from cyber threats.
-
 ---
 
-## ✨ Key Features
-
-🔐 Generate ultra-secure passwords  
-⚡ Lightning-fast generation  
-🎲 Fully randomized characters  
-📋 One-click copy support  
-🛡️ Enhanced security protection  
-🖥️ Clean and modern UI  
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,vscode,git,github" />
-</p>
-
----
-
-## 📊 Repository Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvprajapati6&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvprajapati6&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<div align="center">
-
-### 🌟 Secure Your Digital World
-
-*"Strong passwords are the first line of defense in cybersecurity."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=120&section=footer"/>
-
-</div>
 
 <br/>
 
