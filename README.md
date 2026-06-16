@@ -55,15 +55,6 @@
 
 <br/><br/>
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-GUI-7C3AED?style=for-the-badge&logo=python&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-10B981?style=for-the-badge&logo=windows&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-F59E0B?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-✅%20Completed-22c55e?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/dhruvprajapati6/Password-Generator?style=for-the-badge&color=facc15&logo=github)
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 </div>
