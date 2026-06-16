@@ -1,15 +1,25 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,20:0f172a,45:312e81,70:7c3aed,100:0ea5e9&text=🔐%20SecurePass%20Pro&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ultra-Secure%20Password%20Generator%20for%20Modern%20Users&descAlignY=62&descSize=20"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,20:0f172a,45:312e81,70:7c3aed,100:0ea5e9&text=🔐%20SecurePass%20Pro&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Ultra-Secure%20Password%20Generator%20for%20Modern%20Users&descAlignY=58&descSize=18"/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=🔒+Generate+Military-Grade+Passwords;⚡+Fast+%7C+Secure+%7C+Modern;🛡️+Protect+Your+Digital+Identity;🚀+Built+with+Python+and+Passion" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=27&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=🔒+Generate+Military-Grade+Passwords;⚡+Fast+%7C+Secure+%7C+Modern;🛡️+Protect+Your+Digital+Identity;🚀+Built+with+Python+and+Passion;💎+100%25+Offline+%26+Open+Source" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Version-1.0-8B5CF6?style=for-the-badge&logo=semver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Security-High-success?style=for-the-badge&logo=shield"/>
-  <img src="https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Security-Military--Grade-success?style=for-the-badge&logo=shield&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge&logo=statuspage&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-0EA5E9?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maintained-Yes-22C55E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20%26%20Python-EC4899?style=for-the-badge"/>
+  <img src="https://awesome.re/badge.svg"/>
 </p>
 
 <p align="center">
@@ -28,172 +38,6 @@
   <a href="#-security"><img src="https://img.shields.io/badge/-Security-EF4444?style=for-the-badge"/></a>
   <a href="#-contributing"><img src="https://img.shields.io/badge/-Contributing-F59E0B?style=for-the-badge"/></a>
 </p>
-
-</div>
-
-<br>
-
-## ✨ Features
-
-| | Feature | Description |
-|:---:|---|---|
-| 🎲 | **Cryptographically Secure** | Built on Python's `secrets` module (CSPRNG) — not `random` |
-| 📏 | **Custom Length** | Generate passwords anywhere from 4 to 128 characters |
-| 🔤 | **Character Control** | Independently toggle uppercase, lowercase, digits, and symbols |
-| 🚫 | **Ambiguous Character Filter** | Strip out confusing characters like `0`, `O`, `1`, `l`, `I` |
-| 📊 | **Strength Meter** | Real-time entropy calculation with a clear strength rating |
-| 📦 | **Bulk Generation** | Generate multiple passwords in a single command |
-| 📋 | **Clipboard Copy** | Optional one-flag clipboard copy of the result |
-| 🕵️ | **Zero Logging** | Nothing is ever written to disk, cached, or sent over a network |
-| 🖥️ | **Cross-Platform** | Runs the same on Windows, macOS, and Linux |
-| ⚡ | **Lightweight** | Pure Python core with minimal dependencies |
-
-<br>
-
-## 🖥️ Demo
-
-```bash
-$ python securepass.py --length 20 --count 3
-
-╔══════════════════════════════════════════╗
-║          🔐 SecurePass Pro v1.0           ║
-╚══════════════════════════════════════════╝
-
-Generated Passwords:
-  1. xK9$mPz#4Qw&Rt2!aLbN
-  2. Yh7*Vn3@uJk6%Wp9$Esz
-  3. Bq2&Tm8!Lx5#Nf1@Gdw4
-
-Strength : ⭐⭐⭐⭐⭐ Very Strong  (≈131-bit entropy)
-Est. crack time (offline brute force): effectively uncrackable
-```
-
-<br>
-
-## ⚙️ Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/SecurePass-Pro.git
-cd SecurePass-Pro
-
-# (Optional) create a virtual environment
-python -m venv venv
-source venv/bin/activate      # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-<br>
-
-## 🚀 Usage
-
-```bash
-# Generate a single 16-character password (default)
-python securepass.py
-
-# Generate a 24-character password without symbols
-python securepass.py --length 24 --no-symbols
-
-# Generate 5 passwords at once
-python securepass.py --count 5
-
-# Exclude ambiguous characters and copy result to clipboard
-python securepass.py --exclude-ambiguous --copy
-```
-
-<div align="center">
-
-| Flag | Description | Default |
-|---|---|---|
-| `--length`, `-l` | Password length | `16` |
-| `--count`, `-c` | Number of passwords to generate | `1` |
-| `--no-upper` | Exclude uppercase letters | `False` |
-| `--no-lower` | Exclude lowercase letters | `False` |
-| `--no-numbers` | Exclude digits | `False` |
-| `--no-symbols` | Exclude special characters | `False` |
-| `--exclude-ambiguous` | Remove confusing characters (`0 O 1 l I`) | `False` |
-| `--copy` | Copy result to clipboard | `False` |
-
-</div>
-
-<br>
-
-## 🔐 Security
-
-SecurePass Pro is designed offline-first and audit-friendly:
-
-- 🎯 Powered entirely by Python's `secrets` module — a CSPRNG meant for security-sensitive work, unlike the standard `random` module.
-- 🌐 No network calls of any kind — passwords are generated and stay on your machine.
-- 🗂️ No logs, history files, or caches — nothing touches disk unless you explicitly save it.
-- 🔍 Fully open source, so you (or anyone) can audit exactly how passwords are generated.
-
-**Entropy reference table** *(approximate, assumes a strong offline brute-force attempt; real-world time depends heavily on the hashing algorithm protecting the password):*
-
-| Length | Character Set | Entropy | Approx. Brute-Force Time |
-|:---:|---|:---:|---|
-| 8 | letters + digits | ~47 bits | minutes to hours |
-| 12 | letters + digits + symbols | ~78 bits | centuries |
-| 16 | letters + digits + symbols | ~104 bits | effectively uncrackable |
-| 20+ | letters + digits + symbols | ~130+ bits | effectively uncrackable |
-
-<br>
-
-## 🧱 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/secrets-CSPRNG-8B5CF6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/argparse-CLI-0EA5E9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/pyperclip-Clipboard-22C55E?style=for-the-badge"/>
-</p>
-
-<br>
-
-## 📁 Project Structure
-
-```
-SecurePass-Pro/
-├── securepass.py          # Main CLI entry point
-├── core/
-│   ├── generator.py        # Password generation logic
-│   ├── strength.py         # Entropy & strength calculator
-│   └── clipboard.py        # Clipboard utility
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
-
-<br>
-
-## 🤝 Contributing
-
-Contributions are always welcome!
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<br>
-
-## 📜 License
-
-<p align="left">
-  <img src="https://img.shields.io/badge/License-MIT-F59E0B?style=for-the-badge"/>
-</p>
-
-Distributed under the **MIT License**. See [`LICENSE`](./LICENSE) for details.
-
-<br>
-
-<div align="center">
-
-### ⭐ If SecurePass Pro helped you, consider giving it a star!
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,30:7c3aed,70:312e81,100:050816&section=footer&fontColor=ffffff"/>
 
 </div>
 
