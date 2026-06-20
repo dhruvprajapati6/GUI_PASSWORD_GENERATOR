@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,20:0f172a,45:312e81,70:7c3aed,100:0ea5e9&text=🔐%20SecurePass%20Pro&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Ultra-Secure%20Password%20Generator%20for%20Modern%20Users&descAlignY=58&descSize=18"/>
+<h2> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,20:0f172a,45:312e81,70:7c3aed,100:0ea5e9&text=🔐%20SecurePass%20Pro&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Ultra-Secure%20Password%20Generator%20for%20Modern%20Users&descAlignY=58&descSize=18"/> </h2>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
